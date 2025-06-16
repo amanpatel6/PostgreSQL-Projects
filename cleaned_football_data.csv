@@ -1,0 +1,101 @@
+player_id,player_name,age,club,appearances,goals,assists,nationality,league,league_country,signing_date,club_id
+4439862741,Sebastian Davis,24,Atletico Madrid,30,8,0,Spanish,La Liga,Spain,2021-04-27,1
+8330423773,James Miller,24,Tottenham,0,0,0,French,English Premier League,England,2015-07-28,2
+6169178963,Daniel Rodriguez,20,Tottenham,21,9,4,Spanish,English Premier League,England,2024-07-01,2
+7226464719,Lucas Jones,20,Chelsea,6,1,4,Portuguese,English Premier League,England,2015-07-13,3
+3762711003,Daniel Williams,18,Bayern Munich,7,4,1,German,Bundesliga,Germany,2021-07-08,4
+8758479261,Lucas Brown,20,Bayern Munich,18,13,2,Brazilian,Bundesliga,Germany,2019-04-28,4
+6772670857,Aiden Miller,27,Real Madrid,32,4,12,Belgian,La Liga,Spain,2020-12-08,5
+2396639850,James Brown,18,Tottenham,22,11,6,Brazilian,English Premier League,England,2024-03-06,2
+9332945093,Ethan Brown,23,Bayern Munich,38,10,8,Belgian,Bundesliga,Germany,2020-11-12,4
+7382206645,Daniel Brown,20,Bayern Munich,24,16,1,Portuguese,Bundesliga,Germany,2023-03-09,4
+3737706595,Sebastian Smith,24,Arsenal,15,6,3,German,English Premier League,England,2021-07-16,6
+5518231996,Lucas Garcia,28,Manchester City,27,4,1,Italian,English Premier League,England,2022-10-23,7
+1984366370,Noah Davis,32,Sevilla,28,13,0,Belgian,La Liga,Spain,2016-10-02,8
+3434518739,Ethan Williams,27,Eintracht Frankfurt,2,8,0,English,Bundesliga,Germany,2022-01-20,9
+9526111542,Mason Rodriguez,24,Sevilla,36,15,8,Brazilian,La Liga,Spain,2021-04-17,8
+1816105401,James Brown,25,Atletico Madrid,30,17,13,Dutch,La Liga,Spain,2021-11-03,1
+9850580093,Liam Miller,27,Bayer Leverkusen,14,9,4,Italian,Bundesliga,Germany,2017-08-02,10
+4272684580,Aiden Brown,29,Chelsea,11,3,0,French,English Premier League,England,2017-01-08,3
+4049671836,Ethan Smith,21,Sevilla,17,16,1,Brazilian,La Liga,Spain,2015-08-26,8
+6659212900,James Wilson,28,Rb Leipzig,1,19,7,Belgian,Bundesliga,Germany,2020-02-11,11
+7983204179,Noah Williams,21,Chelsea,8,13,0,English,English Premier League,England,2023-07-28,3
+9488427414,Noah Wilson,30,Bayer Leverkusen,18,14,7,Brazilian,Bundesliga,Germany,2019-10-27,10
+6147519489,James Wilson,34,Real Betis,36,12,4,Brazilian,La Liga,Spain,2024-06-02,12
+2678953073,Leo Brown,26,Arsenal,23,3,3,Brazilian,English Premier League,England,2020-03-14,6
+4692469284,James Brown,23,Tottenham,11,1,2,Portuguese,English Premier League,England,2016-09-19,2
+7695994262,Sebastian Williams,30,Arsenal,25,23,0,Argentinian,English Premier League,England,2017-01-13,6
+1386080590,Leo Smith,31,Bayer Leverkusen,28,15,6,Argentinian,Bundesliga,Germany,2021-06-11,10
+3222358998,Mason Rodriguez,34,Eintracht Frankfurt,16,16,0,English,Bundesliga,Germany,2019-01-21,9
+2442900494,Ethan Miller,20,Atletico Madrid,3,0,2,Dutch,La Liga,Spain,2019-04-14,1
+7877441692,Noah Garcia,28,Arsenal,22,18,8,Portuguese,English Premier League,England,2023-10-18,6
+2913200082,Aiden Wilson,18,Arsenal,3,1,0,French,English Premier League,England,2019-07-03,6
+4629197310,Liam Wilson,26,Eintracht Frankfurt,34,17,0,English,Bundesliga,Germany,2019-06-29,9
+8453475998,Noah Davis,20,Eintracht Frankfurt,3,3,0,Brazilian,Bundesliga,Germany,2024-06-27,9
+5991179784,Daniel Brown,35,Manchester City,34,1,10,Belgian,English Premier League,England,2018-09-15,7
+8853319371,Liam Wilson,29,Rb Leipzig,9,3,5,Italian,Bundesliga,Germany,2022-05-14,11
+9129967555,Leo Miller,22,Real Madrid,24,9,11,Italian,La Liga,Spain,2020-07-03,5
+6257322312,James Brown,23,Tottenham,31,31,0,French,English Premier League,England,2021-10-10,2
+8779376099,Liam Smith,19,Manchester City,9,6,0,English,English Premier League,England,2022-09-13,7
+6522339730,Noah Miller,21,Manchester City,37,7,10,French,English Premier League,England,2023-01-17,7
+5675098147,Noah Rodriguez,33,Bayern Munich,19,5,2,Italian,Bundesliga,Germany,2015-03-20,4
+7951411128,Aiden Williams,33,Arsenal,17,5,4,Brazilian,English Premier League,England,2015-07-12,6
+8327890572,James Miller,31,Sevilla,32,25,7,Portuguese,La Liga,Spain,2017-08-29,8
+6640774409,Mason Wilson,35,Arsenal,25,20,4,Belgian,English Premier League,England,2018-04-19,6
+4583370783,Leo Johnson,34,Real Betis,31,9,10,German,La Liga,Spain,2019-08-20,12
+4135029510,Aiden Brown,31,Tottenham,3,2,0,English,English Premier League,England,2016-04-01,2
+7176582030,Liam Miller,25,Rb Leipzig,15,5,9,Belgian,Bundesliga,Germany,2018-10-09,11
+2807860426,Ethan Garcia,24,Atletico Madrid,20,18,0,German,La Liga,Spain,2017-04-29,1
+9077247925,Mason Wilson,29,Bayern Munich,2,2,0,Dutch,Bundesliga,Germany,2016-01-23,4
+6384485588,Mason Williams,27,Chelsea,24,15,3,Italian,English Premier League,England,2023-11-05,3
+9242137885,Ethan Johnson,26,Arsenal,16,11,8,Spanish,English Premier League,England,2018-09-24,6
+2074882208,Sebastian Rodriguez,20,Borussia Dortmund,6,0,4,Italian,Bundesliga,Germany,2016-05-01,13
+5533149935,Ethan Brown,27,Real Betis,3,1,6,German,La Liga,Spain,2016-05-28,12
+7546849564,Ethan Williams,24,Real Madrid,13,6,5,English,La Liga,Spain,2019-11-25,5
+1083615314,Ethan Jones,30,Chelsea,38,10,2,Italian,English Premier League,England,2015-12-05,3
+2831034119,Leo Jones,28,Real Betis,23,10,9,French,La Liga,Spain,2018-04-09,12
+5765621330,Noah Williams,28,Atletico Madrid,23,20,1,Argentinian,La Liga,Spain,2017-12-07,1
+9496577741,Sebastian Davis,19,Barcelona,1,0,0,Dutch,La Liga,Spain,2018-12-05,14
+6970619473,Liam Johnson,30,Bayern Munich,35,1,26,Argentinian,Bundesliga,Germany,2019-06-08,4
+8644896201,Ethan Jones,21,Arsenal,15,14,0,Argentinian,English Premier League,England,2016-06-24,6
+9405521485,James Wilson,19,Eintracht Frankfurt,17,14,6,Italian,Bundesliga,Germany,2020-04-13,9
+8403589517,Sebastian Williams,34,Rb Leipzig,3,1,0,Argentinian,Bundesliga,Germany,2015-10-27,11
+2519464039,Mason Smith,24,Real Betis,24,6,5,Belgian,La Liga,Spain,2023-11-19,12
+4078507223,Liam Brown,30,Arsenal,9,6,0,Dutch,English Premier League,England,2015-11-12,6
+1439738439,James Williams,31,Rb Leipzig,29,28,0,Italian,Bundesliga,Germany,2017-10-28,11
+7354129620,Ethan Jones,30,Real Madrid,25,8,2,English,La Liga,Spain,2015-09-18,5
+8246478080,Aiden Davis,27,Real Madrid,22,5,3,Spanish,La Liga,Spain,2021-05-23,5
+6416707799,Leo Davis,29,Barcelona,35,10,13,Dutch,La Liga,Spain,2018-10-21,14
+4659096323,Sebastian Miller,34,Bayer Leverkusen,1,0,1,English,Bundesliga,Germany,2023-03-06,10
+7979577207,Ethan Davis,30,Barcelona,20,7,7,Italian,La Liga,Spain,2017-04-23,14
+4220400452,Daniel Wilson,25,Liverpool,19,20,1,Portuguese,English Premier League,England,2021-07-02,15
+6419662806,James Jones,31,Liverpool,12,13,0,Italian,English Premier League,England,2021-05-03,15
+1888462367,Liam Garcia,26,Rb Leipzig,20,16,4,English,Bundesliga,Germany,2020-05-22,11
+5038991190,Daniel Garcia,24,Bayern Munich,19,2,4,Dutch,Bundesliga,Germany,2022-03-26,4
+6406534148,Daniel Johnson,31,Bayern Munich,32,11,13,Portuguese,Bundesliga,Germany,2017-04-22,4
+7649099124,James Garcia,27,Borussia Dortmund,7,3,2,French,Bundesliga,Germany,2021-04-11,13
+6133377003,Lucas Brown,29,Rb Leipzig,27,0,7,Argentinian,Bundesliga,Germany,2016-07-27,11
+8754507762,Mason Brown,32,Barcelona,18,1,9,Dutch,La Liga,Spain,2016-07-20,14
+1736670803,Lucas Rodriguez,25,Liverpool,29,7,1,Italian,English Premier League,England,2018-01-07,15
+9070297488,Mason Smith,18,Real Madrid,2,2,0,Argentinian,La Liga,Spain,2023-12-01,5
+6432097349,Daniel Rodriguez,24,Barcelona,17,7,6,Portuguese,La Liga,Spain,2022-04-26,14
+2882892381,Leo Smith,18,Bayern Munich,27,19,6,Spanish,Bundesliga,Germany,2015-08-27,4
+6019707703,Lucas Smith,35,Atletico Madrid,15,0,9,French,La Liga,Spain,2018-05-25,1
+5998616785,Daniel Williams,30,Sevilla,25,4,1,Spanish,La Liga,Spain,2017-09-03,8
+6994885943,Leo Johnson,26,Manchester City,35,14,6,Brazilian,English Premier League,England,2017-06-14,7
+9750624899,Liam Johnson,25,Borussia Dortmund,19,19,0,Belgian,Bundesliga,Germany,2016-11-01,13
+6613484697,Liam Jones,34,Bayer Leverkusen,21,5,10,Argentinian,Bundesliga,Germany,2015-11-21,10
+3715887618,Sebastian Jones,28,Real Madrid,27,3,3,Argentinian,La Liga,Spain,2019-10-11,5
+6046872194,Sebastian Miller,25,Borussia Dortmund,21,20,4,English,Bundesliga,Germany,2022-03-10,13
+1903649456,Noah Miller,34,Rb Leipzig,35,1,5,Italian,Bundesliga,Germany,2017-12-06,11
+8345582350,Lucas Smith,29,Barcelona,34,28,1,Dutch,La Liga,Spain,2024-01-25,14
+6080302169,Ethan Jones,30,Borussia Dortmund,22,15,5,Brazilian,Bundesliga,Germany,2024-05-13,13
+4521682406,Daniel Smith,32,Real Madrid,29,20,3,Italian,La Liga,Spain,2020-02-28,5
+6284710069,Noah Smith,21,Arsenal,1,10,9,French,English Premier League,England,2023-02-18,6
+3077067858,Noah Johnson,25,Real Madrid,4,9,10,Argentinian,La Liga,Spain,2023-04-29,5
+6820830526,Mason Jones,22,Bayer Leverkusen,11,4,9,Portuguese,Bundesliga,Germany,2016-04-04,10
+6982342252,Aiden Brown,32,Liverpool,32,15,10,English,English Premier League,England,2017-02-27,15
+4773459050,Liam Jones,23,Borussia Dortmund,25,13,2,Spanish,Bundesliga,Germany,2021-07-15,13
+4805530985,Noah Brown,35,Bayern Munich,23,2,0,Portuguese,Bundesliga,Germany,2019-04-04,4
+6680382834,Ethan Jones,27,Real Betis,21,0,10,Belgian,La Liga,Spain,2018-01-26,12
+9202395879,James Brown,33,Liverpool,36,5,15,Spanish,English Premier League,England,2021-06-04,15
